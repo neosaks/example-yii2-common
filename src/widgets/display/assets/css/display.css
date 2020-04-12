@@ -1,0 +1,13 @@
+.display-widget .cover-warpper {
+    position: relative;
+    min-height: 250px;
+}
+
+.display-widget .cover-image {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+
+    background-size: cover;
+    background-position: center center;
+}

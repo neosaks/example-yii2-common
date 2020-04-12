@@ -1,0 +1,27 @@
+/*
+ * Component: Elevation
+ * --------------------
+ */
+.elevation-0 {
+  box-shadow: none !important;
+}
+
+.elevation-1, .sidebar-dark-primary .nav-sidebar > .nav-item > .nav-link.active, .sidebar-light-primary .nav-sidebar > .nav-item > .nav-link.active, .sidebar-dark-secondary .nav-sidebar > .nav-item > .nav-link.active, .sidebar-light-secondary .nav-sidebar > .nav-item > .nav-link.active, .sidebar-dark-success .nav-sidebar > .nav-item > .nav-link.active, .sidebar-light-success .nav-sidebar > .nav-item > .nav-link.active, .sidebar-dark-info .nav-sidebar > .nav-item > .nav-link.active, .sidebar-light-info .nav-sidebar > .nav-item > .nav-link.active, .sidebar-dark-warning .nav-sidebar > .nav-item > .nav-link.active, .sidebar-light-warning .nav-sidebar > .nav-item > .nav-link.active, .sidebar-dark-danger .nav-sidebar > .nav-item > .nav-link.active, .sidebar-light-danger .nav-sidebar > .nav-item > .nav-link.active, .sidebar-dark-light .nav-sidebar > .nav-item > .nav-link.active, .sidebar-light-light .nav-sidebar > .nav-item > .nav-link.active, .sidebar-dark-dark .nav-sidebar > .nav-item > .nav-link.active, .sidebar-light-dark .nav-sidebar > .nav-item > .nav-link.active, .sidebar-dark-blue .nav-sidebar > .nav-item > .nav-link.active, .sidebar-light-blue .nav-sidebar > .nav-item > .nav-link.active, .sidebar-dark-indigo .nav-sidebar > .nav-item > .nav-link.active, .sidebar-light-indigo .nav-sidebar > .nav-item > .nav-link.active, .sidebar-dark-purple .nav-sidebar > .nav-item > .nav-link.active, .sidebar-light-purple .nav-sidebar > .nav-item > .nav-link.active, .sidebar-dark-pink .nav-sidebar > .nav-item > .nav-link.active, .sidebar-light-pink .nav-sidebar > .nav-item > .nav-link.active, .sidebar-dark-red .nav-sidebar > .nav-item > .nav-link.active, .sidebar-light-red .nav-sidebar > .nav-item > .nav-link.active, .sidebar-dark-orange .nav-sidebar > .nav-item > .nav-link.active, .sidebar-light-orange .nav-sidebar > .nav-item > .nav-link.active, .sidebar-dark-yellow .nav-sidebar > .nav-item > .nav-link.active, .sidebar-light-yellow .nav-sidebar > .nav-item > .nav-link.active, .sidebar-dark-green .nav-sidebar > .nav-item > .nav-link.active, .sidebar-light-green .nav-sidebar > .nav-item > .nav-link.active, .sidebar-dark-teal .nav-sidebar > .nav-item > .nav-link.active, .sidebar-light-teal .nav-sidebar > .nav-item > .nav-link.active, .sidebar-dark-cyan .nav-sidebar > .nav-item > .nav-link.active, .sidebar-light-cyan .nav-sidebar > .nav-item > .nav-link.active, .sidebar-dark-white .nav-sidebar > .nav-item > .nav-link.active, .sidebar-light-white .nav-sidebar > .nav-item > .nav-link.active, .sidebar-dark-gray .nav-sidebar > .nav-item > .nav-link.active, .sidebar-light-gray .nav-sidebar > .nav-item > .nav-link.active, .sidebar-dark-gray-dark .nav-sidebar > .nav-item > .nav-link.active, .sidebar-light-gray-dark .nav-sidebar > .nav-item > .nav-link.active, .callout {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24) !important;
+}
+
+.elevation-2 {
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23) !important;
+}
+
+.elevation-3 {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23) !important;
+}
+
+.elevation-4 {
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22) !important;
+}
+
+.elevation-5 {
+  box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22) !important;
+}
